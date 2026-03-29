@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/.env
+backend/*.pkl
+*.egg-info/
+
+# Flutter
+frontend/scam_detector/.dart_tool/
+frontend/scam_detector/.idea/
+frontend/scam_detector/build/
+frontend/scam_detector/.flutter-plugins
+frontend/scam_detector/.flutter-plugins-dependencies
+frontend/scam_detector/.packages
+frontend/scam_detector/pubspec.lock
+frontend/scam_detector/android/.gradle/
+frontend/scam_detector/android/local.properties
+frontend/scam_detector/ios/Pods/
+frontend/scam_detector/ios/.symlinks/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
